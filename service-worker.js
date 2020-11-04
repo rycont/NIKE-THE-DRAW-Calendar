@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/NIKE-THE-DRAW-Calendar/precache-manifest.92bff4c768a9af4a44b0e13e3bfffae5.js"
+  "/NIKE-THE-DRAW-Calendar/precache-manifest.19268b4c79928ea99512f70a71563feb.js"
 );
 
 self.addEventListener('message', (event) => {
